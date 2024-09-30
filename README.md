@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ashique-exe/car-price-prediction.git
+   git clone https://github.com/ashique-exe/Car-Price-Prediction---Linear-Regression.git
    cd car-price-prediction
    ```
 
